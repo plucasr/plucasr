@@ -6,7 +6,7 @@ Full-stack developer — Ruby · Python · TypeScript/React
 
 | Project | Stack | Description |
 |---|---|---|
-| [taskline-api](https://github.com/plucasr/taskline-api) + [taskline-web](https://github.com/plucasr/taskline-web) | Rails · Next.js · WebRTC | Kanban boards with room chat and P2P voice |
+| [taskline-api](https://github.com/plucasr/taskline-api) + [taskline-web](https://github.com/plucasr/taskline-web) + [taskline-mobile](https://github.com/plucasr/taskline-mobile) | Rails · Next.js · ReactLynx · WebRTC | Kanban boards with room chat and P2P voice, web + mobile |
 | [jobcopilot](https://github.com/plucasr/jobcopilot) + [jobcopilot-ui](https://github.com/plucasr/jobcopilot-ui) | Python (FastAPI) · Vite/React | Agentic job-hunt copilot: finds, scores, drafts |
 | [fast-whisperer-api](https://github.com/plucasr/fast-whisperer-api) | Python | FastAPI transcription service |
 | [accounts_api](https://github.com/plucasr/accounts_api) | Ruby | Accounts/identity API |
