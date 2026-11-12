@@ -10,6 +10,7 @@ Full-stack developer — Ruby · Python · TypeScript/React
 | [jobcopilot](https://github.com/plucasr/jobcopilot) + [jobcopilot-ui](https://github.com/plucasr/jobcopilot-ui) | Python (FastAPI) · Vite/React | Agentic job-hunt copilot: finds, scores, drafts |
 | [fast-whisperer-api](https://github.com/plucasr/fast-whisperer-api) | Python | FastAPI transcription service |
 | [accounts_api](https://github.com/plucasr/accounts_api) | Ruby | Accounts/identity API |
+| [ndpiano](https://github.com/plucasr/ndpiano) | Swift · SwiftUI | Native macOS player for Nord Piano/Sample libraries — plug a MIDI keyboard and play Nord sounds without the Nord |
 
 ## Where it started
 
@@ -17,5 +18,6 @@ Full-stack developer — Ruby · Python · TypeScript/React
 
 ## GitHub stats
 
-![Lucas P's GitHub stats](https://github-readme-stats.vercel.app/api?username=plucasr&show_icons=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plucasr&layout=compact&theme=dark)
+![Lucas P's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=plucasr&theme=dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plucasr&theme=dark)
+![Contribution streak](https://streak-stats.demolab.com?user=plucasr&theme=dark)
